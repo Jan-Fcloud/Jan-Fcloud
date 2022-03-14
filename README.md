@@ -1,4 +1,17 @@
-### Hi there 👋
+### Hi there! 👋
+
+I mostly code things for fun or to practice.
+I've worked in the following programing languages:
+    - C#
+    - C++
+    - HTML
+    - CSS
+    - PHP
+    - Python
+    - SQL
+  - (And probably other but I can't remember right now)
+
+
 
 <!--
 **Jan-Fcloud/Jan-Fcloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
