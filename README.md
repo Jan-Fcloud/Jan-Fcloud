@@ -2,13 +2,13 @@
 
 I mostly code things for fun or to practice.
 I've worked in the following programing languages:
-    - C#
-    - C++
-    - HTML
-    - CSS
-    - PHP
-    - Python
-    - SQL
+   - C#
+   - C++
+   - HTML
+   - CSS
+   - PHP
+   - Python
+   - SQL
   - (And probably other but I can't remember right now)
 
 
