@@ -1,14 +1,6 @@
 # <p style="padding: 0; margin: 0;"><p>👨🏼‍💻 Jan-FCloud</p><a href="https://jans.dev"><img alt="Rammstein Enjoyer" title="Rammstein Enjoyer" src="https://custom-icon-badges.demolab.com/badge/-Rammstein%20Enjoyer-Blue?color=1c1c1c&style=for-the-badge&labelColor=C79600?style=for-the-badge&logoColor=white&logo=rammstein_logo_white_png"/></a></p>
    
 I'm an indie full-stack developer trying to release my own versions of software solutions and tools that might benefit others along the way. I keep learning, improving and researching my knowledge on new and existing technologies I am interested in.
-
-<!--
-   <p align="left">
-      <a href="https://github.com/Jan-Fcloud?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Jan-FCloud?color=%23E1AD0E&style=for-the-badge&labelColor=C79600&logo=star"/></a>
-   </p>
-
--->
 ---
 
 ### 🧰 Languages and Tools
