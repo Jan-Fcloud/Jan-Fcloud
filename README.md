@@ -31,7 +31,9 @@ I'm an indie full-stack developer trying to release my own versions of software 
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=jan-fcloud&show_icons=true&theme=dracula)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=jan-fcloud&theme=dracula&border_radius=4.5)
+<!-- This one is broken :( ![GitHub Streak](https://streak-stats.demolab.com?user=jan-fcloud&theme=dracula&border_radius=4.5) -->
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jan-fcloud&layout=compact) -->
 
 #
 <!--
