@@ -36,7 +36,7 @@ I'm an indie full-stack developer trying to release my own versions of software 
 
 <!-- [Top Langs](https://stats.jans.dev/api/top-langs/?username=jan-fcloud&layout=compact)-->
 <img src="https://stats.jans.dev/api?username=jan-fcloud&show_icons=true&theme=dracula">
-<img src="https://stats.jans.dev/api/top-langs/?username=jan-fcloud&layout=compact&theme=dracula&hide=html,css">
+<img src="https://stats.jans.dev/api/top-langs/?username=jan-fcloud&layout=compact&theme=dracula&hide=html,css&count_private=true">
 
 #
 <!--
