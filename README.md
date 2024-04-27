@@ -18,7 +18,7 @@ I'm an indie full-stack developer trying to release my own versions of software 
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Lua" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" />
+<!-- <img align="left" alt="Lua" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" /> -->
 <img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 <img align="left" alt="Swift" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
 <img align="left" alt="RxJS" width="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/rxjs-1.svg" />
@@ -29,12 +29,14 @@ I'm an indie full-stack developer trying to release my own versions of software 
 
 ### 📊 Stats
 
-![Jans's GitHub stats](https://stats.jans.dev/api?username=jan-fcloud&show_icons=true&theme=dracula)
+<!-- ![Jans's GitHub stats](https://stats.jans.dev/api?username=jan-fcloud&show_icons=true&theme=dracula) -->
 
 
 <!-- This one is broken :( ![GitHub Streak](https://streak-stats.demolab.com?user=jan-fcloud&theme=dracula&border_radius=4.5) -->
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jan-fcloud&layout=compact) -->
+<!-- [Top Langs](https://stats.jans.dev/api/top-langs/?username=jan-fcloud&layout=compact)-->
+<img src="https://stats.jans.dev/api?username=jan-fcloud&show_icons=true&theme=dracula">
+<img src="https://stats.jans.dev/api/top-langs/?username=jan-fcloud&layout=compact&theme=dracula&hide=html,css">
 
 #
 <!--
