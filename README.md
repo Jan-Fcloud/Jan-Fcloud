@@ -35,8 +35,8 @@ I'm an indie full-stack developer trying to release my own versions of software 
 <!-- This one is broken :( ![GitHub Streak](https://streak-stats.demolab.com?user=jan-fcloud&theme=dracula&border_radius=4.5) -->
 
 <!-- [Top Langs](https://stats.jans.dev/api/top-langs/?username=jan-fcloud&layout=compact)-->
-<img src="https://stats.jans.dev/api?username=jan-fcloud&show_icons=true&theme=dracula">
-<img src="https://stats.jans.dev/api/top-langs/?username=jan-fcloud&layout=compact&theme=dracula&hide=html,css&count_private=true">
+<img src="https://stats.jans.dev/api?username=jan-fcloud&show_icons=true&theme=dracula&count_private=true">
+<img src="https://stats.jans.dev/api/top-langs/?username=jan-fcloud&layout=compact&theme=dracula&hide=html,css,scss&count_private=true">
 
 #
 <!--
