@@ -4,11 +4,6 @@
 > [!IMPORTANT]
 > I'm an indie full-stack developer trying to release my own versions of software solutions and tools that might benefit others along the way. I keep learning, improving and researching my knowledge on new and existing technologies I am interested in.
 
-> [!NOTE]
-> Currently learning Angular🌐 and Rust🦀
-
-> Also working on a new dev website.
-
 ---
 
 ### 🧰 Languages and Tools
@@ -30,29 +25,3 @@
 <img align="left" alt="Swift" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
 <img align="left" alt="RxJS" width="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/rxjs-1.svg" />
 <br />
-
-#
-
-
-### 📊 Stats
-
-<!-- ![Jans's GitHub stats](https://stats.jans.dev/api?username=jan-fcloud&show_icons=true&theme=dracula) -->
-
-
-<!-- This one is broken :( ![GitHub Streak](https://streak-stats.demolab.com?user=jan-fcloud&theme=dracula&border_radius=4.5) -->
-
-<!-- [Top Langs](https://stats.jans.dev/api/top-langs/?username=jan-fcloud&layout=compact)-->
-<div style="display: flex; align-items: center; justify-content: center;">
- <img src="https://stats.jans.dev/api?username=jan-fcloud&show_icons=true&theme=github_dark_dimmed&count_private=true">
- <img src="https://stats.jans.dev/api/top-langs/?username=jan-fcloud&layout=compact&theme=github_dark_dimmed&hide=html,css,scss&count_private=true">
-</div>
-
-#
-<!--
-<details>
- <summary><h3>ℹ️ How did I even get here?</h3></summary>
-   Add a summary here later :)
-
-[website]: https://jans.dev
-[discord]: https://discordlookup.com/user/246709166767341568
--->
