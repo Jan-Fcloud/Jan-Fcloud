@@ -41,7 +41,7 @@
 ### **Current Focus** ⚡
 <div align="center">
   
-[![ROM Manager Project](https://img.shields.io/badge/🚀_Building-A_ROM_Manager-1c1c1c?style=for-the-badge&logo=github&logoColor=white&labelColor=09b4bd)](https://github.com/Jan-FCloud/rom-manager)
+[![ROM Manager Project](https://img.shields.io/badge/🚀_Building-A_ROM_Manager-1c1c1c?style=for-the-badge&logo=github&logoColor=white&labelColor=09b4bd)](https://jans.dev)
 </div>
 
 ---
